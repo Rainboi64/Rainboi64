@@ -3,8 +3,8 @@
 
 - Intrested in Linux, AI, Rust, C#, C/C++, Vala, TypeScript, Nim, and computer graphics.
 - Intrested in contributing and colaborating on open-source software.
-- Visit my website https://www.yamanalhalabi.com
-- Hit me up, become friends! personal@yamanalhalabi.com
+- Visit my website https://yaman.alhalabi.dev
+- Hit me up, become friends! yaman@alhalabi.dev
 ----
 
 
